@@ -6,6 +6,7 @@ Este é o projeto de formulário de pesquisa desenvolvido na trilha de Design Re
 ![HTML5](https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=264CE4)
 
 ### Prévia
+- Você pode acessar esse site e testa-lo através deste [link](https://johndriguess.github.io/Questionario/)
 ![](https://drive.google.com/uc?export=view&id=1uH8BQp0A7mo9kWHhty5wZFKsgYa0Xx9_)
 
 ### Colaboradores:
